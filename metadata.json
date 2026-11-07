@@ -1,0 +1,6 @@
+{
+  "name": "Music Style Converter",
+  "description": "A technical tool to abstract vocal styles from artist names into technical descriptions optimized for AI music generators like Suno and Udio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
